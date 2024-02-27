@@ -125,6 +125,8 @@ public class MiPrimerVideojuego {
         //calcula el tiempo final en razón de los fallos.
         double tiempoFinal = tiempo + nFallos * 5;
         System.out.println("Tu tiempo final es de " + tiempoFinal + " segundos");
+        System.out.println("¡Vuelve a jugar con Nosotros!");
+        System.out.println("¡Es muy divertido!");
     }
 
     public static void tijera() {
